@@ -1,0 +1,19 @@
+This is a Reverse Polish Notation Calculator. 
+Example：
+  > pi 4 / sin
+  0.70711
+Command:
+  clear   : clear display
+  history : show history
+  help    : show help
+  exit    : exit program
+
+使用可能な関数：
+  +, -, *, /
+  sin, cos, tan
+  sqrt
+  exp
+  log, log10
+定義済みの定数：
+  pi
+  e
